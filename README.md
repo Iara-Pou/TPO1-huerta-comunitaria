@@ -1,4 +1,4 @@
-# 🌱🍓🐈 Huerta Comunitaria de Garay
+# 🌱🐈 Huerta Comunitaria de Garay
 
 ### Nombre y apellido
 Iara Pou - Legajo 1189360
