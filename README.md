@@ -1,6 +1,7 @@
 # Huerta Comunitaria de Garay
 
-**Nombre y apellido:** Iara Pou
+## Nombre y apellido
+Iara Pou - Legajo 1189360
 
 ## Tema elegido
 
