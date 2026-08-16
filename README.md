@@ -8,7 +8,7 @@ Huerta Comunitaria de Garay
 
 ### Tema elegido
 
-El trabajo se tratará acerca de la huerta comunitaria ubicada en la zona de Av. Juan de Garay, en Parque Patricios. Este espacio es mantenido por vecinos del barrio en colaboración con profesionales del INTA, promoviendo el cuidado de las plantas, la producción de alimentos y la participación comunitaria.
+El trabajo se tratará acerca de la huerta comunitaria ubicada en Av. Juan de Garay 2206, Parque Patricios. Este espacio es mantenido por vecinos del barrio en colaboración con profesionales del INTA, promoviendo el cuidado de las plantas, la producción de alimentos y la participación comunitaria.
 
 Además de los cultivos, la huerta funciona como un espacio de cuidado de animales, especialmente de gatos abandonados que son alimentados y cuidados por las personas que participan del proyecto.
 
