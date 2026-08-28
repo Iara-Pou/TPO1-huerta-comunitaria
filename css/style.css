@@ -1,11 +1,11 @@
 * {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 nav {
-    background-color: #d8fcf5;
+    background-color: #d8fcde;
     position: fixed;
     top: 0;
     left: 0;
@@ -24,7 +24,7 @@ nav ul {
     display: flex;
     align-items: center;
     list-style-type: none;
-    gap: 50px;
+    gap: 60px;
     margin: 0;
     padding: 0 5em;
     height: 100%;
@@ -53,9 +53,16 @@ main {
 }
 
 h1 {
-    font-family: "Space Grotesk", system-ui, sans-serif;
+    font-family: "Yeseva One", serif;
+    font-weight: bold;
     text-align: center;
     margin-bottom: 1em;
+    font-size: 2.5em;
+    font-weight: 500;
+}
+
+.titulo-principal {
+    font-size: 3.5em;
 }
 
 h2 {
@@ -69,7 +76,7 @@ h2 {
     margin: 2em auto 0;
     line-height: 1.6;
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     gap: 1em;
 }
 
@@ -96,7 +103,6 @@ h2 {
     color: #000;
     text-decoration: none;
     transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-    border: #000 solid 1px;
 }
 
 .galeria img {
@@ -180,6 +186,10 @@ h2 {
     grid-column: span 2;
 }
 
+.galeria-rescates .foto:nth-child(2) {
+    grid-row: span 2;
+}
+
 .galeria-rescates .foto img {
     width: 100%;
     height: 100%;
@@ -202,7 +212,6 @@ h2 {
     place-items: center;
     border-radius: 12px;
     background-color: #f2f2f2;
-    color: #08756c;
     font-weight: 700;
 }
 
@@ -221,7 +230,6 @@ footer {
     font-size: 0.9em;
     background-color: #1d1d1d;
     color: #e9e7e7;
-    padding: 1em;
     display: flex;
     flex-direction: column;
     align-items: space-around;
@@ -247,9 +255,8 @@ footer>span {
     width: 2.2em;
     height: 2.2em;
     place-items: center;
-    border: 1.5px solid #72d8c9d7;
+    border: 1.5px solid #d8fcde;
     border-radius: 50%;
-    color: #72d8c8;
     font-size: 0.9em;
     line-height: 1;
     transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
@@ -263,7 +270,7 @@ footer>span {
 }
 
 footer a.red-social:hover .icono-red {
-    background-color: #72d8c8;
+    background-color: #8aff9ddb;
     color: #1d1d1d;
 }
 
