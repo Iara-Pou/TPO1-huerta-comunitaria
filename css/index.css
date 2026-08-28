@@ -1,0 +1,47 @@
+/* Estilos exclusivos de la página principal */
+
+.titulo-principal {
+    font-size: 3.5em;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5em;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.card a {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: #f2f2f2;
+    color: #000;
+    text-decoration: none;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.card img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    transition: transform 0.35s ease, filter 0.35s ease;
+}
+
+.card span {
+    padding: 0.8em 1em;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    letter-spacing: .05em;
+}
+
+.card a:hover,
+.card a:focus-visible {
+    transform: translateY(-6px);
+}
