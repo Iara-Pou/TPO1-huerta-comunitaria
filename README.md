@@ -29,3 +29,17 @@ La galería contará principalmente con:
 * Fotografías de los animales que son cuidados en la huerta.
 * Fotografías de personas trabajando en el mantenimiento de los canteros y cuidado de los animales.
 * Imágenes generales del espacio.
+
+### Decisiones de diseño
+
+#### Colores
+
+Elegimos una paleta vinculada con la naturaleza y la identidad comunitaria de la huerta. Usamos el verde claro `#d8fcde` en la navegación y en los detalles de interacción porque transmite crecimiento, vegetación y cercanía. 
+
+El fondo oscuro `#1d1d1d` del pie de página genera contraste y permite que los enlaces y los íconos se destaquen. También usamos fondos claros en las tarjetas y galerías para que las fotografías sean las protagonistas.
+
+#### Tipografías
+
+Para la tipografía general usamos **Roboto**, porque es clara y fácil de leer en textos informativos. 
+
+Para los títulos elegimos **Yeseva One**, una tipografía con más personalidad que ayuda a darle una identidad cálida y artesanal a la galería. 
