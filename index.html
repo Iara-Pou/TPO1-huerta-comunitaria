@@ -4,47 +4,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
     <title>Huerta Comunitaria Garay</title>
 </head>
 
-<body">
+<body>
 
+    <!-- 
+
+Nombre de la galería (cómo título, es un H1). 
+Mi nombre y apellido en el footer.
+Una breve presentación del tema.
+Una galería de fotos previa, para que al hacer click sobre las mismas, sirva como redirección a los otros html.
+Enlaces para acceder a cada elemento en un navbar superior.
+Un encabezado y un pie de página.
+
+-->
     <header>
-        <h1>Huerta Comunitaria de Garay</h1>
-        <p>Por Iara Pou</p>
+        <nav>
+            <ul>
+                <li><a href="index.html"> 🍃 Huerta garay </a></li>
+                <li><a href="comunidad.html">Comunidad</a></li>
+                <li><a href="rescates.html">Rescates</a></li>
+                <li><a href="huerta.html">Huerta</a></li>
+            </ul>
+        </nav>
     </header>
 
     <main>
-        <section>
-            <h2>Sobre el proyecto</h2>
-
-            <p>
-                Esta futura galería visual estará dedicada a la huerta comunitaria
-                ubicada en Av. Juan de Garay 2206, Parque Patricios.
-                El espacio es mantenido por vecinos del barrio en colaboración
-                con profesionales del INTA.
-            </p>
-
-            <p>
-                La galería buscará mostrar los canteros, los vegetales cultivados,
-                los animales que son cuidados en la huerta y a las personas que
-                participan de su mantenimiento.
-            </p>
-
-            <img src="img/canteros.jpg" alt="Canteros de la huerta comunitaria de Garay" width="600">
-        </section>
+        <h1>Huerta Comunitaria de Garay</h1>
 
         <section>
-            <h2>Documentación del proyecto</h2>
+            <br>
 
-            <p>
-                Para conocer más acerca de la galería,
-                por favor, consultar el <a href="README.md">README del proyecto</a>.
+            <p>Espacio ubicado en Av. Juan de Garay 2206, Parque Patricios.
             </p>
+
+            <p>Un oasis verde en el corazón de Parque Patricios (Av. Juan de Garay 2206). Este espacio crece y se
+                sostiene todos los días gracias al esfuerzo, las donaciones y el trabajo en equipo de los vecinos del
+                barrio, respaldados por el asesoramiento de profesionales del INTA.</p>
+            <br>
+
+            <strong>Clickea en alguna de las imágenes para explorar más sobre nuestro proyecto</strong>
+            <br>
+            <br>
+            <div class="galeria">
+                <a href="comunidad.html">
+                    <img src="img/pulgar.jpg" alt="Comunidad de la huerta" width="300">
+                    <span>🤝 Nosotros</span>
+                </a>
+                <a href="rescates.html">
+                    <img src="img/huerta-gatitos-2.jpg" alt="Rescates en la huerta" width="300">
+                    <span>🐾 Rescates</span>
+                </a>
+                <a href="huerta.html">
+                    <img src="img/canteros.jpg" alt="Vista general de la huerta" width="300">
+                    <span>🌱 La huerta</span>
+                </a>
+            </div>
+
         </section>
     </main>
 
     <footer>
+        <span>
+            <a class="red-social" href="https://www.instagram.com/huertacomunitariagaray/" target="_blank"
+                rel="noopener noreferrer"><span class="icono-red" aria-hidden="true"><img
+                        src="img/icons8-instagram-50.png" alt=""></span></a>
+            <a class="red-social" href="https://www.facebook.com/huertacomunitariagaray" target="_blank"
+                rel="noopener noreferrer"><span class="icono-red icono-facebook" aria-hidden="true"><img
+                        src="img/icons8-facebook-50.png" alt=""></span></a>
+        </span>
+        <p>Hecho con ❤️ por Iara Pou</p>
         <p>&copy; 2026 Huerta Comunitaria de Garay. Todos los derechos reservados.</p>
     </footer>
 
