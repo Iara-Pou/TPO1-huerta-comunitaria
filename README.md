@@ -3,19 +3,19 @@
 ### Nombre y apellido
 Iara Pou - Legajo 1189360
 
-### Título o nombre tentativo de la galería
+### Título de la galería
 Huerta Comunitaria de Garay
 
 ### Tema elegido
 
-El trabajo se tratará acerca de la huerta comunitaria ubicada en Av. Juan de Garay 2206, Parque Patricios. Este espacio es mantenido por vecinos del barrio en colaboración con profesionales del INTA, promoviendo el cuidado de las plantas, la producción de alimentos y la participación comunitaria.
+El trabajo se trata acerca de la huerta comunitaria ubicada en Av. Juan de Garay 2206, Parque Patricios. Este espacio es mantenido por vecinos del barrio en colaboración con profesionales del INTA, promoviendo el cuidado de las plantas, la producción de alimentos y la participación comunitaria.
 
-Además de los cultivos, la huerta funciona como un espacio de cuidado de animales, especialmente de gatos abandonados que son alimentados y cuidados por las personas que participan del proyecto.
+Además de los cultivos, la huerta funciona como un espacio de cuidado de animales y de reunión para las personas del barrio.
 
 ### Breve descripción de la propuesta
 
 La galería busca mostrar visualmente la huerta y las distintas actividades que se desarrollan en ella. 
-Las imágenes estarán enfocadas tanto en los canteros y vegetales como en los animales que habitan el espacio y en las personas que colaboran con su mantenimiento.
+Las imágenes están enfocadas tanto en los canteros y vegetales como en los animales que habitan el espacio y en las personas que colaboran con su mantenimiento.
 
 ### Objetivo de la galería
 
@@ -23,7 +23,7 @@ El objetivo es dar a conocer la huerta comunitaria, mostrando la huerta, sus act
 
 ### Contenidos
 
-La galería contará principalmente con:
+La galería cuenta principalmente con:
 
 * Fotografías de los canteros y los vegetales cultivados.
 * Fotografías de los animales que son cuidados en la huerta.
