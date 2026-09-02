@@ -145,3 +145,38 @@ footer a img:hover {
 .foto {
     overflow: hidden;
 }
+
+
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(140px, 1fr));
+    grid-auto-rows: minmax(140px, 220px);
+    gap: 1.5em;
+    width: 100%;
+    max-width: 1000px;
+    margin: 2em auto 0;
+}
+
+.galeria .foto {
+    display: grid;
+    place-items: center;
+    border-radius: 12px;
+    background-color: #f2f2f2;
+    color: #08756c;
+    font-weight: 700;
+}
+
+.galeria .foto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.foto-alta {
+    grid-row: span 2;
+}
+
+.foto-ancha {
+    grid-column: span 2;
+}
